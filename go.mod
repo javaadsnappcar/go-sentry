@@ -1,4 +1,4 @@
-module github.com/jianyuan/go-sentry
+module github.com/javaadsnappcar/go-sentry
 
 go 1.14
 
